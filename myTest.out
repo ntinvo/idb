@@ -1,0 +1,17 @@
+test_company_developed (__main__.DBTestCases) ... ok
+test_company_insert (__main__.DBTestCases) ... ok
+test_company_people (__main__.DBTestCases) ... ok
+test_company_published (__main__.DBTestCases) ... ok
+test_game_companies (__main__.DBTestCases) ... ok
+test_game_insert (__main__.DBTestCases) ... ok
+test_game_people (__main__.DBTestCases) ... ok
+test_game_platforms (__main__.DBTestCases) ... ok
+test_person_games (__main__.DBTestCases) ... ok
+test_person_insert (__main__.DBTestCases) ... ok
+test_platform_games (__main__.DBTestCases) ... ok
+test_platform_insert (__main__.DBTestCases) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 7.909s
+
+OK
